@@ -1,4 +1,4 @@
-# Covid19-Drug-Discovery
+# [ Covid19-Drug-Discovery](https://github.com/Murali-Manohar-Dhassan/Computational-Drug-Discovery/blob/main/SARS%20CoV%20Drug%20Discovery.ipynb)
 December 2021
 - Predicting optimal drug for COVID SARS by targeting single protein
 - Bioactivity Database from Chemsel.
