@@ -4,4 +4,4 @@ December 2021
 - Bioactivity Database from Chemsel.
 - Preprocessing the data using several Chemical descriptors for subsequent model building.
 - Exploratory Data Analysis of molecular descriptors that are essentially quantitative description of the compounds in the dataset
-- Comparing several ML algorithms to build regression models of acetylcholinesterase inhibitors.
+- Comparing several ML algorithms to build regression model of acetylcholinesterase inhibitors.
